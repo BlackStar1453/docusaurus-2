@@ -2,46 +2,50 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 使用前设置
 
-Let's discover **Docusaurus in less than 5 minutes**.
+使用前需要完成三部分设置，耗时大约2分钟。
 
-## Getting Started
+## 视频演示
 
-Get started by **creating a new site**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fIfPeJalV2U?si=0qwfua2X3SDoyY45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### What you'll need
+## 前提条件
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+你需要有一个ChatGPT账户，并且保持登录。
 
-## Generate a new site
+关于如何注册ChatGPT，请查看[相关内容](https://chatgptzhanghao.com/#:~:text=%E6%B3%A8%E5%86%8CChatGPT%20%E8%B4%A6%E5%8F%B7,-%E6%B3%A8%E5%86%8AChatGPT%E8%BF%99&text=%E6%89%93%E5%BC%80%E5%AE%98%E6%96%B9%E6%B3%A8%E5%86%8C%20https%3A%2F%2F,%E9%AA%8C%E8%AF%81%E6%8C%89%E9%92%AE%E5%AE%8C%E6%88%90%E9%82%AE%E7%AE%B1%E9%AA%8C%E8%AF%81).
 
-Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
+## GPT-Tutor设置
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+在初次打开GPT-Tutor时，你需要设置Default Service Provider和API Model，这里推荐使用ChatGPT Web（免费）。
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+## prompt组设置
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+你可以在Action Manager中创建自己的prompt组，也可以直接导入购买的prompt组。
 
-## Start your site
+## Anki设置
+[Anki是什么？](https://sspai.com/post/65095)
 
-Run the development server:
+### 下载
+想要使用单词记忆功能，你还需要下载PC端和移动端的Anki。
 
-```bash
-cd my-website
-npm run start
-```
+[PC端Anki](https://apps.ankiweb.net/)
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+**中国大陆用户**无法打开或下载则请私信或邮箱询问。
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+移动端搜索应用商店即可。
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### 设置
+
+1.打开Anki
+
+2.左上角选择工具，然后点击插件。（或者直接Ctrl + Shift +A打开插件）
+
+3.点击获取插件，输入2055492159下载插件AnkiConnect。
+
+4.下载好后双击打开AnkiConnect，将apiKey设置为你在购买后获得的apiKey（记得带双引号）。
+
+
