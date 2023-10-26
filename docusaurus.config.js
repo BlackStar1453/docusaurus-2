@@ -57,10 +57,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "GPT-Tutor",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/docusaurs.png",
         },
         items: [
           {
@@ -71,7 +71,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/BlackStar1453/openai-translator",
             label: "GitHub",
             position: "right",
           },
