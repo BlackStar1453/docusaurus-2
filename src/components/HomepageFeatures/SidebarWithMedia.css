@@ -1,0 +1,54 @@
+.sidebarWithMediaContainer {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.sidebar {
+  flex: 1; /* 为了简化，我们让导航栏占据整个容器的四分之一 */
+  background-color: #f4f4f4; /* 示例背景颜色 */
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.mediaContainer {
+  flex: 3; /* 占据剩下的空间 */
+}
+
+/* 按钮样式可以根据需要进一步定制 */
+.sidebar button {
+  display: block;
+  width: 80%;
+  box-sizing: border-box;
+}
+
+.navItem {
+  display: block;
+  padding: 15px;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: background-color 0.3s; /* 平滑的背景颜色过渡效果 */
+  background-color: #ffffff; /* 设置默认背景颜色为白色 */
+  border: 1px solid #e0e0e0; /* 添加一个边框，使其更加美观 */
+}
+
+.navItem:hover {
+  background-color: #427eec; /* 深蓝色背景 */
+}
+
+.navItem.selected {
+  background-color: #007bff; /* 鼠标悬停或选中时的蓝色背景 */
+  color: #ffffff; /* 使文本颜色为白色，与蓝色背景形成对比 */
+}
+
+.navTitle {
+  color: #000000;
+  font-size: 18px; /* 标题字体大小 */
+  margin-bottom: 10px; /* 标题与描述之间的间距 */
+  font-weight: bold;
+}
+
+.navDescription {
+  color: #a9a9a9;
+  font-size: 14px; /* 描述字体大小 */
+}

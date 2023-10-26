@@ -16,6 +16,7 @@ function MediaCarousel() {
     <div style={{ textAlign: "center" }}>
       <Slider {...settings}>
         <div>
+          <h3>视频演示</h3>
           <img
             style={{ display: "block", margin: "0 auto" }}
             width="800"
