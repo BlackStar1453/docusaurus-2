@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "单词解释并记忆",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/gpt_1.svg").default,
     description: (
       <>
         鼠标选取不认识的单词进行解释，然后一键将单词添加到anki，在电脑上或者同步到手机上记忆。
