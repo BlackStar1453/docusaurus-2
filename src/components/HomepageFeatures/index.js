@@ -48,6 +48,15 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: "多语言",
+    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    description: (
+      <>
+        GPT-Tutor对于英语的学习最有帮助，但同样能够运用于学习其它语言，设置导入不同的语言指令组，你可以学习日语、法语、德语，设置拉丁语。
+      </>
+    ),
+  },
 ];
 
 function Feature({ Svg, title, description }) {
