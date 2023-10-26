@@ -1,7 +1,6 @@
 import React from "react";
 import clsx from "clsx";
 import styles from "./styles.module.css";
-import MediaCarousel from "./MediaCarousel";
 
 const FeatureList = [
   {
@@ -9,7 +8,7 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        你可以在你遇到不认识的词时直接鼠标选取进行解释。不只是网站，PDF格式的书籍也可以。并且可以一键将单词添加到anki，在电脑上或者同步到手机上记忆。
+        鼠标选取不认识的单词进行解释，然后一键将单词添加到anki，在电脑上或者同步到手机上记忆。
       </>
     ),
   },
@@ -18,7 +17,7 @@ const FeatureList = [
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        你可以轻松实现对单词解释的自定义，GPT-Tutor会根据你的要求来给出解释。比如你可以要求解释单词的多个含义，近义词/反义词解释，语法搭配、词汇搭配以及相关的成语、谚语、俚语等等,甚至可以让GPT-Tutor在解释单词之前给你讲一个苏联笑话放松心情。
+        轻松实现对单词的自定义解释。比如你可以要求解释单词的多个含义，近义词/反义词解释，语法搭配、词汇搭配以及相关的成语、谚语、俚语等等,甚至可以让GPT-Tutor在解释单词之前给你讲一个苏联笑话放松心情。
       </>
     ),
   },
@@ -50,7 +49,6 @@ const FeatureList = [
     ),
   },
 ];
-
 
 function Feature({ Svg, title, description }) {
   return (

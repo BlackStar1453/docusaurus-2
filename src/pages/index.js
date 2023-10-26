@@ -36,8 +36,8 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        <MediaCarousel />
         <HomepageFeatures />
+        <MediaCarousel />
       </main>
     </Layout>
   );
