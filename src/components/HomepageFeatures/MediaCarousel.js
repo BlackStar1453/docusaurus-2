@@ -26,13 +26,11 @@ function MediaCarousel() {
         </div>
         <div>
           <iframe
-            width="800"
-            height="400"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
-            title="YouTube video"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
+            src="https://afdian.net/leaflet?slug=afdian"
+            width="640"
+            scrolling="no"
+            height="200"
+            frameborder="0"
           ></iframe>
         </div>
       </Slider>
