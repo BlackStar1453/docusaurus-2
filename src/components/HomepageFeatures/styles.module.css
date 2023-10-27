@@ -6,6 +6,35 @@
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  height: 100%;
+  width: 75%; /* 图片占据整体的3/4 */
+  order: 1; /* 使用flexbox的order属性确保图片始终在左侧 */
+}
+
+.featureText {
+  flex: 1;
+  magin-top: 5%;
+  margin-left: 2%; /* 为了保持一些间隔 */
+  width: 25%; /* 文字部分占据整体的1/4 */
+  order: 2; /* 使用flexbox的order属性确保文字始终在右侧 */
+}
+
+.arrowContainer {
+  display: flex;
+  justify-content: center; /* 使箭头水平居中 */
+}
+
+.arrowStyle {
+  cursor: pointer;
+  font-size: 2rem;
+  color: grey;
+  background-color: #f2f2f2; 
+  padding: 10px;
+  border-radius: 50%; 
+  transition: 0.3s; 
+}
+
+.arrowStyle:hover {
+  color: white;
+  background-color: grey; 
 }

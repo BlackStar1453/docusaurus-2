@@ -1,14 +1,25 @@
 import React, { useState } from "react";
 import "./Sidebar.css";
+
 function SidebarWithMedia() {
   const links = [
     {
-      title: "Link 1",
+      title: "单词学习和记忆",
       description: "描述内容1", // 新增的描述字段
       mediaURL: "https://www.youtube.com/embed/SJOnhWiJArM&t=90s",
     },
     {
-      title: "Link 2",
+      title: "作文学习和批改",
+      description: "描述内容2", // 新增的描述字段
+      mediaURL: "https://www.youtube.com/embed/CpfLGNhqTYw",
+    },
+     {
+      title: "多语言学习",
+      description: "描述内容2", // 新增的描述字段
+      mediaURL: "https://www.youtube.com/embed/CpfLGNhqTYw",
+    },
+     {
+      title: "读书时使用",
       description: "描述内容2", // 新增的描述字段
       mediaURL: "https://www.youtube.com/embed/CpfLGNhqTYw",
     },

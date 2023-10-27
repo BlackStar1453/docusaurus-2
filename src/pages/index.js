@@ -5,7 +5,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./index.module.css";
-import MediaCarousel from "@site/src/components/HomepageFeatures";
+import MediaCarousel from "@site/src/components/HomepageFeatures/MediaCarousel";
 import SidbearWithMedia from "@site/src/components/HomepageFeatures/SidebarWithMedia";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -36,9 +36,10 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
-        <SidbearWithMedia />
+        <h1>功能演示</h1>
         <MediaCarousel />
+        <h1>使用场景演示</h1>
+        <SidbearWithMedia />
       </main>
     </Layout>
   );

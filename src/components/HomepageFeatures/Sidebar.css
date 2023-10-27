@@ -11,7 +11,7 @@
 .sidebar {
   flex: 1;
   background-color: #f4f4f4;
-  padding: 20px;
+  padding: 10px;
   box-sizing: border-box;
 }
 
@@ -33,11 +33,11 @@
 
 .navTitle {
   font-weight: bold;
-  font-size: 18px; /* 标题字体大小 */
+  font-size: 14px; /* 标题字体大小 */
   margin-bottom: 10px; /* 标题与描述之间的间距 */
 }
 
 .navDescription {
   color: #a9a9a9;
-  font-size: 14px; /* 描述字体大小 */
+  font-size: 10px; /* 描述字体大小 */
 }
