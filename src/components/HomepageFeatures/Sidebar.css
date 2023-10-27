@@ -1,0 +1,43 @@
+.sidebarWithMediaContainer {
+  display: flex;
+  width: 80%;
+  height: 50vh;
+}
+
+.mediaContainer {
+  flex: 3; /* 占据剩下的空间 */
+}
+
+.sidebar {
+  flex: 1;
+  background-color: #f4f4f4;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.navItem {
+  color: #000000;
+  display: block;
+  background-color: #ffffff; /* 蓝色背景 */
+  border: 1px solid #e0e0e0;
+  margin: 10px 0;
+  padding: 15px;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: background-color 0.3s; /* 平滑的背景颜色过渡效果 */
+}
+
+.navItem:hover {
+  background-color: #0056b3; /* 深蓝色背景 */
+}
+
+.navTitle {
+  font-weight: bold;
+  font-size: 18px; /* 标题字体大小 */
+  margin-bottom: 10px; /* 标题与描述之间的间距 */
+}
+
+.navDescription {
+  color: #a9a9a9;
+  font-size: 14px; /* 描述字体大小 */
+}

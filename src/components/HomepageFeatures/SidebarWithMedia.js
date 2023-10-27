@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./SidebarWithMedia.css";
+import "./Sidebar.css";
 function SidebarWithMedia() {
   const links = [
     {
