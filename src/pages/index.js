@@ -36,9 +36,9 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        <h1>功能演示</h1>
+        <h2>功能演示</h2>
         <MediaCarousel />
-        <h1>使用场景演示</h1>
+        <h2>使用场景演示</h2>
         <SidbearWithMedia />
       </main>
     </Layout>

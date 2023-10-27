@@ -42,13 +42,13 @@ const FeatureList = [
     ImgSrc: require("@site/static/img/image.png").default,
     description: (
       <>
-        GPT-Tutor可以实现以下单词学习功能，包括单词自定义解释、多语言单词记忆且支持在PC端和移动端使用、根据场景学习单词、同类词比较等等功能。一个浏览器扩展+Anki就相当于彩云小译+欧陆词典+多邻国+百词斩+Moji辞书···除此之外还有很多其它功能。  
+        GPT-Tutor可以实现几乎所有的单词学习方法，并且支持多语言单词记忆，且能够在电脑和手机上进行同步学习和记忆。一个浏览器扩展+Anki就相当于彩云小译+欧陆词典+多邻国+百词斩+Moji辞书···除此之外还有很多其它功能。  
       </>
     ),
   },
   {
     title: "单词解释并记忆",
-    Image: require("@site/static/img/gpt_1.svg").default,
+    Image: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
         鼠标选取不认识的单词进行解释，然后一键将单词添加到anki，在电脑上或者同步到手机上记忆。
@@ -56,7 +56,7 @@ const FeatureList = [
     ),
   },
   {
-    title: "自定义单词解释",
+    title: "解释两个类似表达之间的细微差别",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
@@ -65,7 +65,7 @@ const FeatureList = [
     ),
   },
   {
-    title: "自定义学习方法",
+    title: "名词同类词扩充",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
@@ -74,11 +74,11 @@ const FeatureList = [
     ),
   },
   {
-    title: "学习口语和书面表达、修改作文",
+    title: "形容词扩充",
     Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        GPT-Tutor不只是能够帮助你学习单词，还能够帮助你学习语法、表达和修改作文。
+        GPT-Tutor不只是能够帮助你学习单词，还能够帮助你学习语法、英语的地道表达和修改作文。
       </>
     ),
   },
@@ -98,11 +98,10 @@ function Feature({ Svg, title, description }) {
     <div className="features">
         <div >
           <Svg className={styles.featureSvg} role="img" />
-                  {Image && <img src={Image} alt={title} />}
         </div>
         <div className="featureText">
-  <h3>{title}</h3>
-  <p>{description}</p>
+         <h3>{title}</h3>
+         <p>{description}</p>
         </div>
     </div>
   );
@@ -112,7 +111,7 @@ function ImageFeature({ ImgSrc, title, description }) {
   return (
     <div className="features">
         <div >
-          <img src={ImgSrc} className={styles.featureImg} alt={title} />
+          <img src={ImgSrc} className={styles.featureImg} role="img" />
         </div>
         <div className="featureText">
           <h3>{title}</h3>

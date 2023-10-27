@@ -1,6 +1,6 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: English
+title: 使用GPT-Tutor学习英语
 authors:
   name: Gao Wei
   title: Docusaurus Core Team
@@ -9,4 +9,27 @@ authors:
 tags: [hola, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+## 单词学习
+不同语言的单词需要记的东西不一样，虽然ChatGPT能分清楚，比如它知道日语要记平假名/片假名，德语要记阴阳性，拉丁语要记变格，但是如果不对prompt进行正确的设置，给出的单词解释还是太过粗略，而且可能存在错误。在使用GPT-Tutor学习英语之外的语言时，有必要先了解这门语言单词的特性，根据特性来创建prompt组并进行调整和测试后再投入使用。
+
+### 英语单词学习
+英语单词的学习直接购买并导入[英语单词学习]prompt组即可。因为ChatGPT的数据主要是英语，而且因为ChatGPT本身的特性，在单词解释方面它无论是在准确性还是全面程度上都要远远超过大多数词书和词典。
+
+## 表达练习
+ChatGPT可以在两个方面上极大促进你的语言学习，一方面是单词另一方面是。
+
+
+## 作文练习
+结合grammarly和ChatGPT学习英语写作的方法，理论上可以运用于雅思、托福、GRE等各种英语作文写作。
+
+（1）根据题目自己独立完成一篇作文。
+
+（2）把作文输入grammarly，改正语法错误。
+
+（3）每改正完一段的语法错误后，复制到chat，然后让它给一个more native的表达。如果觉得表达还不够好，就多反馈几句“more native please”。
+
+（4）以上三个步骤完毕后，作文就存在三个版本：1.自己独立写作的版本；2.语法修改后的版本；3.更好表达的版本。
+
+对比1、2，改正自己写作中常见的语法错误（比如在对比中我发现自己总是不加the，就对这一点加以注意）。
+
+对比1、3或者2、3，重点对比结构和表达思路，注意自己想要表达的意思在更native的表达中是如何实现的。在了解以上内容后，再对更native的表达中进行学习和记忆。
