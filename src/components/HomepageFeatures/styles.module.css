@@ -13,10 +13,11 @@
 }
 
 .featureImg {
-  max-width: 60%;
   width: 60%;
   height: auto;
-  margin: 5%; /* 使img居中 */
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .featureText {
