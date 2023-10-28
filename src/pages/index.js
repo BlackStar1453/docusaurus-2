@@ -4,9 +4,9 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
-import MediaCarousel from "@site/src/components/HomepageFeatures/MediaCarousel";
 import styles from "./index.module.css";
-
+import MediaCarousel from "@site/src/components/HomepageFeatures/MediaCarousel";
+import SidbearWithMedia from "@site/src/components/HomepageFeatures/SidebarWithMedia";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -36,8 +36,10 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        <h2>功能演示</h2>
         <MediaCarousel />
+        <h2>使用场景演示</h2>
+        <SidbearWithMedia />
       </main>
     </Layout>
   );

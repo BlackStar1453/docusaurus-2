@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "单词解释并记忆",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: require("@site/static/img/gpt_1.svg").default,
     description: (
       <>
         鼠标选取不认识的单词进行解释，然后一键将单词添加到anki，在电脑上或者同步到手机上记忆。
@@ -36,6 +36,15 @@ const FeatureList = [
     description: (
       <>
         GPT-Tutor不只是能够帮助你学习单词，还能够帮助你学习语法、表达和修改作文。
+      </>
+    ),
+  },
+  {
+    title: "多语言",
+    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    description: (
+      <>
+        GPT-Tutor对于英语的学习最有帮助，但同样能够运用于学习其它语言，设置导入不同的语言指令组，你可以学习日语、法语、德语，设置拉丁语。
       </>
     ),
   },

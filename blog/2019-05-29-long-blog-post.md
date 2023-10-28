@@ -1,6 +1,6 @@
 ---
-slug: long-blog-post
-title: Long Blog Post
+slug: settings
+title: 使用前设置
 authors: endi
 tags: [hello, docusaurus]
 ---
