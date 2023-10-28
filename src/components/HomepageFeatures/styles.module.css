@@ -1,46 +1,25 @@
 .features {
   display: flex;
+  justify-content: center;
   align-items: center;
-  padding: 2rem 0;
+  height: 100vh;
   width: 100%;
 }
 
 .featureSvg {
-  height: 80%;
-  width: 65%; /* 图片占据整体的3/4 */
-  order: 1; /* 使用flexbox的order属性确保图片始终在左侧 */
+  max-width: 65%;
+  width: 100%;
+  height: auto;
 }
 
 .featureImg {
-  height: 100%;
-  width: 100%; /* 图片占据整体的3/4 */
-  order: 1; /* 使用flexbox的order属性确保图片始终在左侧 */
+  max-width: 60%;
+  width: 60%;
+  height: auto;
+  margin: 5%; /* 使img居中 */
 }
 
 .featureText {
   flex: 1;
-  magin-top: 5%;
-  margin-left: 2%; /* 为了保持一些间隔 */
-  width: 25%; /* 文字部分占据整体的1/4 */
-  order: 2; /* 使用flexbox的order属性确保文字始终在右侧 */
-}
-
-.arrowContainer {
-  display: flex;
-  justify-content: center; /* 使箭头水平居中 */
-}
-
-.arrowStyle {
-  cursor: pointer;
-  font-size: 2rem;
-  color: grey;
-  background-color: #f2f2f2; 
-  padding: 10px;
-  border-radius: 50%; 
-  transition: 0.3s; 
-}
-
-.arrowStyle:hover {
-  color: white;
-  background-color: grey; 
+  width: 30%;
 }

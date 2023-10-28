@@ -7,21 +7,19 @@ function SidebarWithMedia() {
       title: "单词学习和记忆",
       description: "描述内容1", // 新增的描述字段
       mediaURL: "https://www.youtube.com/embed/SJOnhWiJArM&t=90s",
+      type: "video",
     },
     {
       title: "作文学习和批改",
       description: "描述内容2", // 新增的描述字段
       mediaURL: "https://www.youtube.com/embed/CpfLGNhqTYw",
+      type: "video",
     },
-     {
-      title: "多语言学习",
+    {
+      title: "单词",
       description: "描述内容2", // 新增的描述字段
-      mediaURL: "https://www.youtube.com/embed/CpfLGNhqTYw",
-    },
-     {
-      title: "读书时使用",
-      description: "描述内容2", // 新增的描述字段
-      mediaURL: "https://www.youtube.com/embed/CpfLGNhqTYw",
+      mediaURL: "../static/img/gpt_tutor_1.png",
+      type: "video",
     },
   ];
 
@@ -44,13 +42,25 @@ function SidebarWithMedia() {
       </div>
 
       <div className="mediaContainer">
-        <iframe
-          width="100%"
-          height="100%"
-          src={currentMedia}
-          frameBorder="0"
-          allowFullScreen
-        ></iframe>
+        {links[selectedLinkIndex].type === "video" && (
+          <iframe
+            width="100%"
+            height="100%"
+            src={currentMedia}
+            frameBorder="0"
+            allowFullScreen
+          ></iframe>
+        )}
+
+        {(links[selectedLinkIndex].type === "image" ||
+          links[selectedLinkIndex].type === "gif") && (
+          <img
+            width="100%"
+            height="100%"
+            src={currentMedia}
+            alt={links[selectedLinkIndex].description}
+          />
+        )}
       </div>
     </div>
   );

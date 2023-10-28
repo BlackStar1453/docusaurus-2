@@ -5,28 +5,6 @@ import "slick-carousel/slick/slick-theme.css";
 import clsx from "clsx";
 import styles from "./styles.module.css";
 
-function CustomNextArrow(props) {
-  const { onClick, style } = props;
-  return (
-    <div className={styles.arrowContainer}>
-      <div className={styles.arrowStyle} onClick={onClick} style={{ ...style }}>
-        &gt;
-      </div>
-    </div>
-  );
-}
-
-function CustomPrevArrow(props) {
-  const { onClick, style } = props;
-  return (
-    <div className={styles.arrowContainer}>
-      <div className={styles.arrowStyle} onClick={onClick} style={{ ...style }}>
-        &lt;
-      </div>
-    </div>
-  );
-}
-
 const FeatureList = [
   {
     title: "最全能的单词学习工具",
@@ -39,7 +17,7 @@ const FeatureList = [
   },
   {
     title: "单词解释并记忆",
-    Image: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
         鼠标选取不认识的单词进行解释，然后一键将单词添加到anki，在电脑上或者同步到手机上记忆。
@@ -48,7 +26,7 @@ const FeatureList = [
   },
   {
     title: "解释两个类似表达之间的细微差别",
-    Image: require("@site/static/img/gpt_tutor_1.png").default,
+    ImgSrc: require("@site/static/img/gpt_tutor_1.png").default,
     description: (
       <>
         轻松实现对单词的自定义解释。比如你可以要求解释单词的多个含义，近义词/反义词解释，语法搭配、词汇搭配以及相关的成语、谚语、俚语等等,甚至可以让GPT-Tutor在解释单词之前给你讲一个苏联笑话放松心情。
@@ -77,9 +55,7 @@ const FeatureList = [
     title: "多语言",
     Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
-      <>
-        GPT-Tutor对于英语的学习最有帮助，但同样能够运用于学习其它语言，设置导入不同的语言指令组，你可以学习日语、法语、德语，设置拉丁语。
-      </>
+      <>GPT-Tutor对于英语的学习最有帮助，但同样能够运用于学习其它语言。</>
     ),
   },
 ];
@@ -133,14 +109,10 @@ function MediaCarousel() {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-    nextArrow: <CustomNextArrow style={{ right: "10px", bottom: "-25px" }} />,
-    prevArrow: <CustomPrevArrow style={{ left: "10px", bottom: "-25px" }} />,
   };
-
   return (
     <div style={{ textAlign: "center" }}>
       <Slider {...settings}>
-        <h3>功能演示</h3>
         {FeatureList.map((feature, index) => (
           <div key={index}>
             {feature.Svg && <Feature {...feature} />}
