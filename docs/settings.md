@@ -3,6 +3,7 @@ slug: settings
 title: 安装和设置
 authors: endi
 tags: [settings]
+sidebar_position: 3
 ---
 ## 使用前设置
 
