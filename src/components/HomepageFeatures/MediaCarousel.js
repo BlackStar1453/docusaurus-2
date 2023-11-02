@@ -26,7 +26,7 @@ const FeatureList = [
   },
   {
     title: "单词扩充",
-    ImgSrc: require("@site/static/img/gpt_tutor_4.png").default,
+    ImgSrc: require("@site/static/img/gpt_tutor_3.png").default,
     description: (
       <>
         给出与该单词的同类或类似词，并且学习它们之间的区别，这样你就不会混淆，并且能够在正确的地方使用该单词。
@@ -34,11 +34,11 @@ const FeatureList = [
     ),
   },
   {
-    title: "解释两个类似表达之间的细微差别",
-    ImgSrc: require("@site/static/img/gpt_tutor_2.png").default,
+    title: "根据场景学习单词",
+    ImgSrc: require("@site/static/img/gpt_tutor_5.png").default,
     description: (
       <>
-        有时候你会认为两个词的含义是相同或者是类似的，但实际上在母语使用者看来两者有很大的区别，GPT-Tutor能够帮助你解释它们之间的区别。
+        输入一个场景或者学科，然后会给出这个场景或学科里的相关单词，这个功能可以帮助你学习同一个类别的单词，快速扩充词汇量。
       </>
     ),
   },
