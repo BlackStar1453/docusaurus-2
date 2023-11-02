@@ -7,25 +7,29 @@ import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "最全能的语言学习工具",
-    ImgSrc: require("@site/static/img/image.png").default,
-    description: (
-      <>
-    1. 能够像彩云小译一样在网页或PDF文档上划取单词进行翻译。<br />
-    2. 能够像欧陆词典一样轻松添加近义词/反义词、词组、习惯用语。<br />
-    3. 能够像百词斩一样在电脑和手机上按照记忆曲线背诵单词。<br />
-    4. 能够像多邻国一样学习多语言，而且比多邻国要强大得多。<br />
-    5. 能够像母语使用者一样为你讲解这门语言中不同表达之间的细微差别<br />
-    6.更多功能等待挖掘中···
-  </>
-    ),    
-  },
-  {
     title: "解释单词的多种含义",
     GifSrc: require("@site/static/gif/gpt-tutor-explainword.gif").default,
     description: (
       <>
-      解释单词在不同语境和不同领域的多种含义，不用再担心在阅读时出现词认识，但却不知道具体含义的情况。
+        解释单词在不同语境和不同领域的多种含义，不用再担心在阅读时出现词认识，但却不知道具体含义的情况。
+      </>
+    ),
+  },
+  {
+    title: "单词使用",
+    ImgSrc: require("@site/static/img/gpt_tutor_4.png").default,
+    description: (
+      <>
+        解释单词的用法。根据单词的类型（名词、形容词、动词）分别解释单词的用法。
+      </>
+    ),
+  },
+  {
+    title: "单词扩充",
+    ImgSrc: require("@site/static/img/gpt_tutor_4.png").default,
+    description: (
+      <>
+        给出与该单词的同类或类似词，并且学习它们之间的区别，这样你就不会混淆，并且能够在正确的地方使用该单词。
       </>
     ),
   },
@@ -34,7 +38,16 @@ const FeatureList = [
     ImgSrc: require("@site/static/img/gpt_tutor_2.png").default,
     description: (
       <>
-有时候你会认为两个词的含义是相同或者是类似的，但实际上在母语使用者看来两者有很大的区别，GPT-Tutor能够帮助你解释它们之间的区别。
+        有时候你会认为两个词的含义是相同或者是类似的，但实际上在母语使用者看来两者有很大的区别，GPT-Tutor能够帮助你解释它们之间的区别。
+      </>
+    ),
+  },
+  {
+    title: "解释两个类似表达之间的细微差别",
+    ImgSrc: require("@site/static/img/gpt_tutor_2.png").default,
+    description: (
+      <>
+        有时候你会认为两个词的含义是相同或者是类似的，但实际上在母语使用者看来两者有很大的区别，GPT-Tutor能够帮助你解释它们之间的区别。
       </>
     ),
   },
