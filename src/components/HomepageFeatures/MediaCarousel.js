@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import styles from "./styles.module.css";
-import { ReactComponent as PrevArrowSVG } from '@site/static/img/logo.svg';
+import { ReactComponent as PrevArrowSVG } from "@site/static/img/logo.svg";
 
 const FeatureList = [
   {
@@ -97,7 +97,7 @@ function GifFeature({ GifSrc, title, description }) {
 
 function PrevArrow(props) {
   const { className, style, onClick } = props;
-  const prevArrowImg = require("@site/static/img/logo.svg").default;
+  const prevArrowImg = require("@site/static/img/prev_arrow.png").default;
   return (
     <img
       src={prevArrowImg}
@@ -106,7 +106,7 @@ function PrevArrow(props) {
       style={{
         display: "block",
         backgroundColor: "transparent", // 设置为透明背景
-        left: "2%",
+        left: "15%",
         zIndex: 2,
         width: "40px",
         height: "40px",
@@ -118,13 +118,15 @@ function PrevArrow(props) {
 
 function NextArrow(props) {
   const { className, style, onClick } = props;
+  const nextArrowImg = require("@site/static/img/next_arrow.png").default;
   return (
-    <div
+    <img
+      src={nextArrowImg}
       className={className}
       style={{
         ...style,
         display: "block",
-        background: "gray",
+        background: "transparent",
         right: "15%",
         zIndex: 2,
         width: "40px",
