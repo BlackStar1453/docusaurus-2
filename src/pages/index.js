@@ -3,7 +3,6 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./index.module.css";
 import MediaCarousel from "@site/src/components/HomepageFeatures/MediaCarousel";
 import SidbearWithMedia from "@site/src/components/HomepageFeatures/SidebarWithMedia";
@@ -19,7 +18,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/purchase"
           >
-            点击购买并使用 👉
+            点击下载并使用 👉
           </Link>
         </div>
       </div>

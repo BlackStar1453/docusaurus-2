@@ -14,18 +14,17 @@
 
 .featureImg {
   max-width: 600px;
-  width: 50%;
+  width: 30%;
   height: auto;
-  margin-left: 32%;
+  margin-left: 34%;
   margin-top: 5%;
   margin-bottom: 1%;
 }
 
 .featureGif {
-  max-width: 450px;
-  width: 50%;
+  width: 30%;
   max-height: 60%;
-  margin-left: 32%;
+  margin-left: 34%;
   margin-top: 5%;
   margin-bottom: 2%;
 }
