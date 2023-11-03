@@ -6,6 +6,8 @@ import Layout from "@theme/Layout";
 import styles from "./index.module.css";
 import MediaCarousel from "@site/src/components/HomepageFeatures/MediaCarousel";
 import SidbearWithMedia from "@site/src/components/HomepageFeatures/SidebarWithMedia";
+import ReactMarkdown from "react-markdown";
+import intro from "@site/docs/introduction.md";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -33,6 +35,7 @@ export default function Home() {
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />"
     >
+      <ReactMarkdown source={intro.default} />
       <HomepageHeader />
       <main>
         <MediaCarousel />

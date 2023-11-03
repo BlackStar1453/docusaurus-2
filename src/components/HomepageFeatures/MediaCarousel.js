@@ -3,7 +3,6 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import styles from "./styles.module.css";
-import { ReactComponent as PrevArrowSVG } from "@site/static/img/logo.svg";
 
 const FeatureList = [
   {
