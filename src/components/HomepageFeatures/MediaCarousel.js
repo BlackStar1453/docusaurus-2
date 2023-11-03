@@ -3,6 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import styles from "./styles.module.css";
+import { ReactComponent as PrevArrowSVG } from '@site/static/img/logo.svg';
 
 const FeatureList = [
   {
@@ -96,18 +97,19 @@ function GifFeature({ GifSrc, title, description }) {
 
 function PrevArrow(props) {
   const { className, style, onClick } = props;
+  const prevArrowImg = require("@site/static/img/logo.svg").default;
   return (
-    <div
+    <img
+      src={prevArrowImg}
       className={className}
+      role="img"
       style={{
-        ...style,
         display: "block",
-        background: "gray",
-        left: "15%",
+        backgroundColor: "transparent", // 设置为透明背景
+        left: "2%",
         zIndex: 2,
         width: "40px",
         height: "40px",
-        backgroundSize: "cover",
       }}
       onClick={onClick}
     />
