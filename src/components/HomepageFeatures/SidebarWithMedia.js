@@ -6,7 +6,7 @@ function SidebarWithMedia() {
     {
       title: "单词学习和记忆",
       description: "描述内容1", // 新增的描述字段
-      mediaURL: "https://www.youtube.com/embed/SJOnhWiJArM&t=90s",
+      mediaURL: "https://www.youtube.com/embed/Y7VQjG_OTUg",
       type: "video",
     },
     {
@@ -16,9 +16,9 @@ function SidebarWithMedia() {
       type: "video",
     },
     {
-      title: "单词",
+      title: "单词学习的相关功能演示",
       description: "描述内容2", // 新增的描述字段
-      mediaURL: "../static/img/gpt_tutor_1.png",
+      mediaURL: "https://www.youtube.com/embed/jkbja3WbFoU",
       type: "video",
     },
   ];
