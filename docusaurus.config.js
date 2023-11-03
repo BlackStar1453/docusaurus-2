@@ -12,7 +12,7 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/docusaurs.png",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -65,11 +65,11 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "extra",
+            docId: "introduction",
             position: "left",
-            label: "Tutorial",
+            label: "使用教程",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "相关阅读", position: "left" },
           {
             href: "https://github.com/BlackStar1453/openai-translator",
             label: "GitHub",
@@ -93,16 +93,20 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "Telegram",
+                href: "https://t.me/+p5mMQhx1_rsxN2I1",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Mastodon",
+                href: "https://m.cmx.im/tags/%E4%BD%BF%E7%94%A8ChatGPT%E8%BE%85%E5%8A%A9%E5%AD%A6%E4%B9%A0",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "爱发电",
+                href: "https://afdian.net/a/zy1999",
+              },
+              {
+                label: "Patreon",
+                href: "https://www.patreon.com/yaoyaoyao",
               },
             ],
           },
@@ -115,7 +119,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/BlackStar1453/openai-translator",
               },
             ],
           },

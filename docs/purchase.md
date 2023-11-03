@@ -7,9 +7,9 @@ sidebar_position: 2
 ---
 ## 下载
 [Chrome应用商店]
-[Github]
 
-GPT-Tutor为开源软件,你可以直接在Chrome应用商店下载并使用，但如果你需要视频中演示的单词学习相关功能，你需要购买以下单词学习的指令组，然后按照以下教程，导入到GPT-Tutor中使用。
+
+你可以直接在Chrome应用商店下载并使用，但如果你需要视频中演示的单词学习相关功能，你需要购买以下单词学习的指令组，然后按照以下教程，导入到GPT-Tutor中使用。
 
 
 
@@ -19,7 +19,6 @@ GPT-Tutor为开源软件,你可以直接在Chrome应用商店下载并使用，�
 - 每一份收入的10%我都会计入“考试基金”中，用来帮助那些环境困难的女性和LGBT友友在使用GPT-Tutor学习语言并通过雅思/托福或其它语言考试后支付相关考试费用。
 
 ## prompt组购买
-如果你需要视频中的所有单词学习功能，那么你需要购买单词学习的prompt组。
 
 ### 微信/支付宝/Paypay
 [爱发电购买](https://afdian.net/item/ba10652e73e811eeb0e952540025c377)
@@ -30,23 +29,16 @@ GPT-Tutor为开源软件,你可以直接在Chrome应用商店下载并使用，�
 
 如果你已经有一套自己的单词学习prompt组，那么你只需要然后在GPT-tutor中打开Action Manager，[创建自己的prompt组即可](settings)。
 
-[购买链接]
 
 后续我将更新英语阅读、表达和作文的相关prompt组，你可以在Telegram或qq群中获得相关信息。
 
+[Telegram（建议使用）](https://t.me/+p5mMQhx1_rsxN2I1)
 
-**在购买后需要3分钟完成相关设置**
+qq群：903770350
+
+**在xi下载后需要3分钟完成相关设置**
 
 [相关设置](settings)
 
-### 加入用户群
 
-加入Telegram或其它群，或者直接订阅我的爱发电和Patreon，以获取最新版本的GPT-Tutor和prompt组**
 
-[Telegram（建议使用）](https://t.me/+p5mMQhx1_rsxN2I1)
-
-[爱发电]
-
-[Patreon]
-
-qq群：903770350
