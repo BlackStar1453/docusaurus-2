@@ -5,6 +5,13 @@ authors: endi
 tags: [settings]
 sidebar_position: 2
 ---
+### 下载
+[Chrome应用商店]
+[Github]
+
+GPT-Tutor为开源软件,你可以直接在Chrome应用商店下载并使用，但如果你需要视频中演示的单词学习相关功能，你需要购买以下单词学习的指令组，然后按照以下教程，导入到GPT-Tutor中使用。
+
+
 
 **使用和购买说明**
 - 使用GPT-Tutor需要你有一个ChatGPT账户，如何注册请查看[注册ChatGPT](https://chatgptzhanghao.com/#:~:text=%E6%B3%A8%E5%86%8CChatGPT%20%E8%B4%A6%E5%8F%B7,-%E6%B3%A8%E5%86%8AChatGPT%E8%BF%99&text=%E6%89%93%E5%BC%80%E5%AE%98%E6%96%B9%E6%B3%A8%E5%86%8C%20https%3A%2F%2F,%E9%AA%8C%E8%AF%81%E6%8C%89%E9%92%AE%E5%AE%8C%E6%88%90%E9%82%AE%E7%AE%B1%E9%AA%8C%E8%AF%81)。

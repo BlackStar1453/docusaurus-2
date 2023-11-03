@@ -2,16 +2,15 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import clsx from "clsx";
 import styles from "./styles.module.css";
 
 const FeatureList = [
   {
-    title: "解释单词的多种含义",
+    title: "解释单词并在电脑和手机上记忆",
     GifSrc: require("@site/static/gif/gpt-tutor-explainword.gif").default,
     description: (
       <>
-        解释单词在不同语境和不同领域的多种含义，不用再担心在阅读时出现词认识，但却不知道具体含义的情况。
+        解释单词在不同语境和不同领域的多种含义，然后点击添加到anki就能在电脑和手机上记忆。
       </>
     ),
   },
@@ -95,6 +94,46 @@ function GifFeature({ GifSrc, title, description }) {
   );
 }
 
+function PrevArrow(props) {
+  const { className, style, onClick } = props;
+  return (
+    <div
+      className={className}
+      style={{
+        ...style,
+        display: "block",
+        background: "gray",
+        left: "15%",
+        zIndex: 2,
+        width: "40px",
+        height: "40px",
+        backgroundSize: "cover",
+      }}
+      onClick={onClick}
+    />
+  );
+}
+
+function NextArrow(props) {
+  const { className, style, onClick } = props;
+  return (
+    <div
+      className={className}
+      style={{
+        ...style,
+        display: "block",
+        background: "gray",
+        right: "15%",
+        zIndex: 2,
+        width: "40px",
+        height: "40px",
+        backgroundSize: "cover",
+      }}
+      onClick={onClick}
+    />
+  );
+}
+
 function MediaCarousel() {
   const settings = {
     dots: true,
@@ -102,9 +141,11 @@ function MediaCarousel() {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
+    nextArrow: <NextArrow />,
+    prevArrow: <PrevArrow />,
   };
   return (
-    <div style={{ textAlign: "center" }}>
+    <div style={{ position: "relative", textAlign: "center" }}>
       <Slider {...settings}>
         {FeatureList.map((feature, index) => (
           <div key={index}>
