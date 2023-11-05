@@ -25,7 +25,7 @@ sidebar_position: 2
 
 ### 海外
 
-[Patreon购买]
+[Patreon购买](https://www.patreon.com/yaoyaoyao/shop/english-learning-prompt-group-discount-39072?source=storefront)
 
 如果你已经有一套自己的单词学习prompt组，那么你只需要然后在GPT-tutor中打开Action Manager，[创建自己的prompt组即可](settings)。
 

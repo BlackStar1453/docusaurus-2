@@ -1,25 +1,13 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: yao
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+[我的个人网站](https://yaoyaoyao.vercel.app/)
 
-Simply add Markdown files (or folders) to the `blog` directory.
+[bilibili](https://space.bilibili.com/363340721)
 
-Regular blog authors can be added to `authors.yml`.
+[youtube](https://www.youtube.com/channel/UC7ecjWbmTb316c1Jk4pQprg)
 
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+[Mastodon](https://m.cmx.im/tags/%E4%BD%BF%E7%94%A8ChatGPT%E8%BE%85%E5%8A%A9%E5%AD%A6%E4%B9%A0)
