@@ -29,11 +29,17 @@ sidebar_position: 2
 
 
 ### 微信/支付宝/Paypay
-[爱发电购买](https://afdian.net/item/38891628719e11ee964c52540025c377)
+
+[英语单词学习](https://afdian.net/item/38891628719e11ee964c52540025c377)
+
+[英语表达学习](https://afdian.net/item/7b9a84c87cdf11eeb0195254001e7c00)
 
 ### 海外
 
-[Patreon购买](https://www.patreon.com/yaoyaoyao/shop/english-learning-prompt-group-discount-39072?source=storefront)
+[英语单词学习](https://www.patreon.com/yaoyaoyao/shop/english-learning-prompt-group-discount-39072?source=storefront)
+
+[英语表达学习](https://www.patreon.com/yaoyaoyao/shop/ying-yu-biao-da-xue-xi-promptzu-nu-xing-53654?source=storefront)
+
 
 ### 如果你不需要购买prompt组
 
