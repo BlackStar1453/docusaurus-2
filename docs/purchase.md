@@ -1,6 +1,6 @@
 ---
 slug: purchase
-title: 购买prompt组
+title: 下载和购买
 authors: endi
 tags: [settings]
 sidebar_position: 2
@@ -29,7 +29,7 @@ sidebar_position: 2
 
 
 ### 微信/支付宝/Paypay
-[爱发电购买](https://afdian.net/item/ba10652e73e811eeb0e952540025c377)
+[爱发电购买](https://afdian.net/item/38891628719e11ee964c52540025c377)
 
 ### 海外
 
