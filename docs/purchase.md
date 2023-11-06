@@ -6,11 +6,11 @@ tags: [settings]
 sidebar_position: 2
 ---
 ## 下载
-你可以选择在Chrome应用商店中下载，也可以直接下载zip文件然后导入到浏览器中，具体操作请查看[相关设置](settings)
+你可以选择在Chrome应用商店中下载，也可以直接下载zip文件然后导入到浏览器中，具体操作请查看[相关设置](settings)。
 
 [Chrome应用商店（审核中）]
 
-[点击下载zip文件](gpt_tutor_1.png)
+[点击下载zip文件（右键点击链接另存为）](chromium.zip)
 
 你可以直接在Chrome应用商店下载并使用，但如果你需要视频中演示的单词学习相关功能，你需要购买以下单词学习的指令组，然后按照以下教程，导入到GPT-Tutor中使用。
 
