@@ -1,7 +1,6 @@
 ---
 slug: extra
 title: 扩展阅读
-authors: endi
 tags: [readings]
 sidebar_position: 8
 ---
