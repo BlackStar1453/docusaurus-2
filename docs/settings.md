@@ -20,7 +20,7 @@ sidebar_position: 3
 
 **通过Chrome应用商店下载的用户可直接跳转到视频中的0：31。**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HyLilZr4ZoQ?si=0qwfua2X3SDoyY45" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/HyLilZr4ZoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## 文字演示
 ### GPT-Tutor的导入

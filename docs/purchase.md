@@ -16,6 +16,10 @@ sidebar_position: 2
 
 [点击下载zip文件（右键点击链接另存为）](chromium.zip)
 
+#### 视频演示
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/atXOLPsuxqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
+
 
 ## prompt组购买
 
