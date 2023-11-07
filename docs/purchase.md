@@ -5,7 +5,8 @@ authors: endi
 tags: [settings]
 sidebar_position: 2
 ---
-## 下载
+# 使用步骤
+## 一、下载GPT-Tutor
 ### Chrome应用商店
 
 [Chrome应用商店（审核中）]
@@ -21,7 +22,7 @@ sidebar_position: 2
 <iframe width="800" height="600" src="https://www.youtube.com/embed/atXOLPsuxqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 
 
-## prompt组购买
+## 二、prompt组购买
 
 **如果说扩展本体是一把武器，功能组（prompt组）就是弹药，实现各自不同的学习功能需要装填不同的功能组。你可以在GPT-Tutor创建自己的功能组，或者购买视频中演示的单词学习功能组。**
 
@@ -44,6 +45,9 @@ sidebar_position: 2
 
 [英语表达学习](https://www.patreon.com/yaoyaoyao/shop/ying-yu-biao-da-xue-xi-promptzu-nu-xing-53654?source=storefront)
 
+### 购买后导入到GPT-Tutor中使用
+
+<iframe width="800" height="600" src="https://www.youtube.com/embed/4Z3L53D9ApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 
 ### 如果你不需要购买prompt组
 
@@ -56,7 +60,7 @@ sidebar_position: 2
 
 qq群：903770350
 
-## 在下载后需要3分钟完成相关设置
+## 三、完成相关设置
 
 [相关设置](settings)
 
