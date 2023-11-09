@@ -88,7 +88,7 @@ const config = {
                 to: "/docs/extra",
               },
               {
-                label: "Tutorial",
+                label: "privacy",
                 to: "/docs/privacy",
               },
             ],
