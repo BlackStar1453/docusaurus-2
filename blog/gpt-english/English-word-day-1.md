@@ -1,7 +1,6 @@
 ---
 slug: day-1
-title: 使用GPT-Tutor学习雅思 Day 1 
-authors: yao
+title: 单词学习 Day 1 
 ---
 
 ###   Day 1
