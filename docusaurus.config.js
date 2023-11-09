@@ -87,6 +87,10 @@ const config = {
                 label: "Tutorial",
                 to: "/docs/extra",
               },
+              {
+                label: "Tutorial",
+                to: "/docs/privacy",
+              },
             ],
           },
           {
