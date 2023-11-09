@@ -6,7 +6,6 @@ title: 单词学习 Day 1
 ###   Day 1
 
 打开刘洪波的IELTS雅思真经，从章节一**自然地理**第一小节的单词开始。
-[!图片无法显示](english_6.png)
 
 **第一小节 atomosphere, hydrosphere，lithosphere**
 
