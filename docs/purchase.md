@@ -1,6 +1,6 @@
 ---
 slug: purchase
-title: 下载和购买
+title: 下载
 authors: endi
 tags: [settings]
 sidebar_position: 2
@@ -22,22 +22,12 @@ sidebar_position: 2
 <iframe width="800" height="600" src="https://www.youtube.com/embed/atXOLPsuxqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 
 
-## 二、prompt组购买
 
-### 为什么你需要购买prompt组？
-
-**如果说扩展本体是一把武器，功能组（prompt组）就是弹药，实现各自不同的学习功能需要装填不同的功能组。你可以在GPT-Tutor创建自己的功能组，或者购买视频中演示的单词学习功能组。**
-
-- 如果你不会自己创建和调试prompt组，那么你就需要购买来使用GPT-Tutor的相关功能。
-- 如果你打算自己创建和调试prompt组，这可能会耗费大量的时间，且如果你没有足够的Prompt Engineering知识和操作经验，你可能无法保证输出结果的正确。而这套已经建立好的prompt组能够保证即使是使用基本的GPT-3.5，也能保证完整且正确的回答。
-- 如果你认为自己能够保证创建正确的prompt，那这套prompt组对你仍然能起到作用。因为这套prompt组更加系统和完善地包括了学习单词的所有相关功能，而且里面包含的不仅仅只是几条分散的prompt，而是可以组成一套系统的学习方法。
-
-### 使用和购买说明
+### 使用说明
 - 使用GPT-Tutor需要你有一个ChatGPT账户，如何注册请查看[注册ChatGPT](https://chatgptzhanghao.com/#:~:text=%E6%B3%A8%E5%86%8CChatGPT%20%E8%B4%A6%E5%8F%B7,-%E6%B3%A8%E5%86%8AChatGPT%E8%BF%99&text=%E6%89%93%E5%BC%80%E5%AE%98%E6%96%B9%E6%B3%A8%E5%86%8C%20https%3A%2F%2F,%E9%AA%8C%E8%AF%81%E6%8C%89%E9%92%AE%E5%AE%8C%E6%88%90%E9%82%AE%E7%AE%B1%E9%AA%8C%E8%AF%81)。
-- 女性和LGBT用户可享有75%的折扣优惠。
-- 每一份收入的10%我都会计入“考试基金”中，用来帮助那些环境困难的女性和LGBT友友在使用GPT-Tutor学习语言并通过雅思/托福或其它语言考试后支付相关考试费用。
 
-### 介绍单词学习的prompt组
+
+### 我建议你以以下顺序和功能来创建你的prompt组
 
 **单词解释**
 
@@ -72,32 +62,7 @@ sidebar_position: 2
 
 该prompt组是在长期持续维护和更新中的，当我发现有更好的效果和新的功能时，我会添加到prompt组中，并且免费为所有已经购买prompt组的用户更新。
 
-### 微信/支付宝/Paypay
 
-[英语单词学习](https://afdian.net/item/38891628719e11ee964c52540025c377)
-
-[英语表达学习](https://afdian.net/item/7b9a84c87cdf11eeb0195254001e7c00)
-
-### 海外
-
-[英语单词学习](https://www.patreon.com/yaoyaoyao/shop/english-learning-prompt-group-discount-39072?source=storefront)
-
-[英语表达学习](https://www.patreon.com/yaoyaoyao/shop/ying-yu-biao-da-xue-xi-promptzu-nu-xing-53654?source=storefront)
-
-### 购买后导入到GPT-Tutor中使用
-
-<iframe width="800" height="600" src="https://www.youtube.com/embed/4Z3L53D9ApE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
-
-### 如果你不需要购买prompt组
-
-如果你已经有一套自己的单词学习prompt组，那么你只需要然后在GPT-tutor中打开Action Manager，[创建自己的prompt组即可](settings)。
-
-
-后续我将更新英语阅读、表达和作文的相关prompt组，你可以在Telegram或qq群中获得相关信息。
-
-[Telegram（建议使用）](https://t.me/+p5mMQhx1_rsxN2I1)
-
-qq群：903770350
 
 ## 三、完成相关设置
 
