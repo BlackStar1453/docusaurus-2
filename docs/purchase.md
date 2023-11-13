@@ -7,9 +7,10 @@ sidebar_position: 2
 ---
 # 使用步骤
 ## 一、下载GPT-Tutor
-### Chrome应用商店
 
 [Chrome应用商店（审核中）]
+
+[Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/gpt-tutor/)
 
 ### zip文件
 
