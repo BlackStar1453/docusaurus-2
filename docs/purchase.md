@@ -1,6 +1,6 @@
 ---
 slug: purchase
-title: 下载
+title: 下载和功能组购买
 authors: endi
 tags: [settings]
 sidebar_position: 2
