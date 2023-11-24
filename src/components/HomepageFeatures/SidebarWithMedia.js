@@ -10,9 +10,15 @@ function SidebarWithMedia() {
       type: "video",
     },
     {
-      title: "相关功能演示",
+      title: "单词学习相关功能演示",
       description: "GPT-Tutor单词学习的相关功能和使用", // 新增的描述字段
       mediaURL: "https://www.youtube.com/embed/jkbja3WbFoU",
+      type: "video",
+    },
+    {
+      title: "表达学习相关功能演示",
+      description: "GPT-Tutor单词学习的相关功能和使用", // 新增的描述字段
+      mediaURL: "https://www.youtube.com/embed/8GQfVn7IkDU",
       type: "video",
     },
   ];
