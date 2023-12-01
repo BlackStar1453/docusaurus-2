@@ -1,5 +1,5 @@
 ---
-slug: exp
+slug: exp_demonstration
 title: 使用GPT-Tutor学习英语表达
 ---
 gpt-tutor提供了三种练习英语表达的方法，循序渐进使用这三种方法将十分有效地提高你的英语表达能力。
