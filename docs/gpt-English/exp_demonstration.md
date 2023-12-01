@@ -5,7 +5,7 @@ title: 使用GPT-Tutor学习英语表达
 gpt-tutor提供了三种练习英语表达的方法，循序渐进使用这三种方法将十分有效地提高你的英语表达能力。
 
 
-#### 方法一：练习基本表达
+### 方法一：练习基本表达
 
 第一种方法在我之前已经提到过，找到一本记录表达英语表达（常用搭配、成语、句式等）的书籍，比如《会让你在IELTS写作与口语考试中更像一个Native Speaker的纯正英式短语英式句型1000条》，然后将里面的表达加入到anki中进行学习和记忆，通过这个方法你能够像学习单词一样学习英语表达。
 
@@ -13,7 +13,8 @@ gpt-tutor提供了三种练习英语表达的方法，循序渐进使用这三�
 
 <iframe width="800" height="600" src="https://www.youtube.com/embed/YnSliuyO-qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 
-#### 方法二：练习基本段落表达
+### 方法二：练习基本段落表达
+
 第二种则是方法一的进阶，当你了解的表达足够多时，你可能已经能够说出一段相对比较完整的内容了，这时候你就需要把表达再组织、扩展成一个段落，这时候你就需要用到gpt-tutor中的“主题表达”这个功能。这个功能的作用是，你输入一个主题，比如“我最喜欢的运动是跑步”，gpt-tutor就能够给出一段完整的表达，你可以像学习单词一样学习这段主题表达。
 
 你可以直接通过“主题表达”这个功能来像记单词一样记忆和学习主题表达，但是我更建议你在它的基础上自己完成一段完整的内容表达，然后使用“评价和修改”这个功能来改善，然后再添加到anki中。
