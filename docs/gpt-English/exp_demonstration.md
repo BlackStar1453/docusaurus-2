@@ -11,22 +11,21 @@ gpt-tutor提供了三种练习英语表达的方法，循序渐进使用这三�
 
 当然，你要学习的表达不一定要完全按照书上的内容，你也可以随时学习和记忆你自己想要知道的表达，比如你今天工作很忙，你可能会想知道"事情好多啊"如何表达，你就可以使用“如何表达”这个功能，你输入中文它就会给出对应的英语地道表达。
 
-[视频](https://youtu.be/YnSliuyO-qA)
-
+<iframe width="800" height="600" src="https://www.youtube.com/embed/YnSliuyO-qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 
 #### 方法二：练习基本段落表达
 第二种则是方法一的进阶，当你了解的表达足够多时，你可能已经能够说出一段相对比较完整的内容了，这时候你就需要把表达再组织、扩展成一个段落，这时候你就需要用到gpt-tutor中的“主题表达”这个功能。这个功能的作用是，你输入一个主题，比如“我最喜欢的运动是跑步”，gpt-tutor就能够给出一段完整的表达，你可以像学习单词一样学习这段主题表达。
 
 你可以直接通过“主题表达”这个功能来像记单词一样记忆和学习主题表达，但是我更建议你在它的基础上自己完成一段完整的内容表达，然后使用“评价和修改”这个功能来改善，然后再添加到anki中。
 
-[视频](https://youtu.be/mLq3UIbkWYE)
+<iframe width="800" height="600" src="https://www.youtube.com/embed/mLq3UIbkWYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 
 
 ### 方法三：真实场景演练
 
 第三种则是视频中演示的这种，当我们对表达和组织具体的段落都足够熟练后，我们就可以尝试在真实场景中来使用和练习我们学习到的表达，并且让ChatGPT对你的表达做出更好的修正和完善。
 
-[视频](https://youtu.be/8GQfVn7IkDU)
+<iframe width="800" height="600" src="https://www.youtube.com/embed/8GQfVn7IkDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="true"></iframe>
 
 
 ### 注意
