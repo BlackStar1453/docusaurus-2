@@ -51,7 +51,7 @@ sidebar_position: 3
 
 3.点击获取插件，输入2055492159下载插件AnkiConnect。
 
-4.下载好后双击打开AnkiConnect，将apiKey设置为你在购买后获得的apiKey（记得带双引号），然后设置 "webCorsOriginList"为"*"。
+4.下载好后双击打开AnkiConnect，将apiKey设置为"Sol och skyar (Sun and Clouds), Op. 102:No. 5. Majsol ler, Maj (May Sun Smiles, May)"（记得带双引号），然后设置 "webCorsOriginList"为"*"。
 
 [Anki是什么？](https://sspai.com/post/65095)
 
