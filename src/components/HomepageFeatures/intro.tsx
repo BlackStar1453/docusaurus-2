@@ -1,7 +1,7 @@
 import React from 'react';
 import { LightbulbIcon, PuzzleIcon, CheckCircleIcon } from 'lucide-react';
 
-const ChromeBuildInfo = () => {
+const Intro = () => {
   const sections = [
     {
       icon: <LightbulbIcon className="w-8 h-8 text-blue-500" />,
@@ -60,4 +60,4 @@ const ChromeBuildInfo = () => {
   );
 };
 
-export default ChromeBuildInfo;
+export default Intro;

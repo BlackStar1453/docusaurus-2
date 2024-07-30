@@ -4,7 +4,7 @@ import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import styles from "./index.module.css";
-import ChromeBuildInfo from "@site/src/components/HomepageFeatures/ChromeBuildInfo";
+import Intro from "../components/HomepageFeatures/intro";
 import { checkGoogleFavicon } from "./utils"
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -39,7 +39,7 @@ export default function Home() {
     >
       <HomepageHeader />
       <main>
-      <ChromeBuildInfo />
+      <Intro />
       </main>
     </Layout>
   );
