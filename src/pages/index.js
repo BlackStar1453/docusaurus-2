@@ -5,7 +5,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import styles from "./index.module.css";
 import Intro from "../components/HomepageFeatures/intro";
-import { checkGoogleFavicon } from "./utils"
+import { checkGoogleFavicon } from "../utils";
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   const handleDownloadClick = () => {
