@@ -64,14 +64,7 @@ const config = {
         },
         items: [
           {
-            type: "doc",
-            docId: "introduction",
-            position: "left",
-            label: "使用教程",
-          },
-          { to: "/blog", label: "相关阅读", position: "left" },
-          {
-            href: "https://github.com/BlackStar1453/openai-translator",
+            href: "https://github.com/BlackStar1453/gpt-tutor-for-chrome",
             label: "GitHub",
             position: "right",
           },
@@ -81,50 +74,21 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Contact Me",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/extra",
+                label: "Discord",
+                href: "https://discord.gg/JrNrUs72Jn",
               },
               {
-                label: "privacy",
-                to: "/docs/privacy",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Telegram",
-                href: "https://t.me/+p5mMQhx1_rsxN2I1",
+                label: "微博",
+                href: "https://weibo.com/",
               },
               {
-                label: "Mastodon",
-                href: "https://m.cmx.im/tags/%E4%BD%BF%E7%94%A8ChatGPT%E8%BE%85%E5%8A%A9%E5%AD%A6%E4%B9%A0",
+                label: "X",
+                href: "https://x.com/Heraclitius",
               },
-              {
-                label: "爱发电",
-                href: "https://afdian.net/a/zy1999",
-              },
-              {
-                label: "Patreon",
-                href: "https://www.patreon.com/yaoyaoyao",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/BlackStar1453/openai-translator",
-              },
+              
             ],
           },
         ],
