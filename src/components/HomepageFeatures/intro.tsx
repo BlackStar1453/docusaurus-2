@@ -18,7 +18,7 @@ const Intro = () => {
       items: [
         { text: "使用AI学习单词的示例", link: "/docs/gpt-English/word-example" },
         { text: "使用AI学习表达的示例", link: "/docs/gpt-English/expression-example" },
-        { text: "使用AI学习之前的注意事项", link: "/docs/attention" },
+        { text: "使用AI学习之前的注意事项", link: "/blogs/attention" },
       ]
     },
     {

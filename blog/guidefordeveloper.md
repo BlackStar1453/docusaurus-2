@@ -1,7 +1,6 @@
 ---
 slug: guide-for-developer
 title: 开发者指南
-authors: endi
 tags: [settings]
 sidebar_position: 3
 ---
