@@ -10,7 +10,6 @@ const Intro = () => {
         { text: "什么是GPT-Tutor", link: "/docs/introduction" },
         { text: "如何使用GPT-Tutor来学习语言", link: "/docs/category/english" },
         { text: "为什么gpt-tutor是免费且开源的", link: "/blogs/why-gpt-tutor-free" },
-        { text: "开发者指南", link: "/docs/guide-for-developer" },
       ]
     },
     {
@@ -20,7 +19,6 @@ const Intro = () => {
         { text: "使用AI学习单词的示例", link: "/docs/gpt-English/word-example" },
         { text: "使用AI学习表达的示例", link: "/docs/gpt-English/expression-example" },
         { text: "使用AI学习之前的注意事项", link: "/docs/attention" },
-        { text: "了解一些AI的相关知识", link: "/docs/category/related-reading" },
       ]
     },
     {
@@ -29,7 +27,7 @@ const Intro = () => {
       items: [
         { text: "下载相关", link: "/docs/download" },
         { text: "设置相关", link: "/docs/settings" },
-        { text: "在使用ChatGPT(Web)时可能遇到的问题和解决方案", link: "/docs/chatgpt" },
+        { text: "其它问题", link: "/blogs/chatgpt" },
       ]
     }
   ];
