@@ -5,38 +5,37 @@ const Intro = () => {
   const sections = [
     {
       icon: <LightbulbIcon className="w-8 h-8 text-blue-500" />,
-      title: "Chrome 概念",
+      title: "了解GPT-Tutor",
       items: [
-        { text: "什么是 Chrome 发布版本?", link: "/docs/introduction" },
-        { text: "什么是 Chrome flag?", link: "/docs/introduction" },
-        { text: "开始试用源试用", link: "#" },
-        { text: "Chrome 中的新功能", link: "#" },
+        { text: "什么是GPT-Tutor", link: "/docs/introduction" },
+        { text: "如何使用GPT-Tutor来学习语言", link: "/docs/category/english" },
+        { text: "为什么gpt-tutor是免费且开源的", link: "/blogs/why-gpt-tutor-free" },
+        { text: "开发者指南", link: "/docs/guide-for-developer" },
       ]
     },
     {
       icon: <PuzzleIcon className="w-8 h-8 text-blue-500" />,
-      title: "扩展程序",
+      title: "初次使用AI学习语言？",
       items: [
-        { text: "新变化", link: "#" },
-        { text: "开始", link: "#" },
-        { text: "开发", link: "#" },
-        { text: "Chrome Web Store", link: "#" },
+        { text: "使用AI学习单词的示例", link: "/docs/gpt-English/word-example" },
+        { text: "使用AI学习表达的示例", link: "/docs/gpt-English/expression-example" },
+        { text: "使用AI学习之前的注意事项", link: "/docs/attention" },
+        { text: "了解一些AI的相关知识", link: "/docs/category/related-reading" },
       ]
     },
     {
       icon: <CheckCircleIcon className="w-8 h-8 text-blue-500" />,
-      title: "始终更新",
+      title: "常见问题解答",
       items: [
-        { text: "Chrome 中的新功能", link: "#" },
-        { text: "版本说明", link: "#" },
-        { text: "博客", link: "#" },
+        { text: "下载相关", link: "/docs/download" },
+        { text: "设置相关", link: "/docs/settings" },
+        { text: "在使用ChatGPT(Web)时可能遇到的问题和解决方案", link: "/docs/chatgpt" },
       ]
     }
   ];
 
   return (
     <div className="max-w-4xl mx-auto p-6">
-      <h1 className="text-3xl font-bold mb-8">使用 Chrome 构建</h1>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         {sections.map((section, index) => (
           <div key={index} className="flex flex-col items-start">
