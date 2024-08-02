@@ -23,7 +23,7 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "en",
+    defaultLocale: "zh-Hans",
     locales: ["en","zh-Hans"],
   },
 
@@ -82,7 +82,7 @@ const config = {
               },
               {
                 label: "微博",
-                href: "https://weibo.com/",
+                href: "https://weibo.com/u/2432250323",
               },
               {
                 label: "X",
