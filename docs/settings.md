@@ -16,11 +16,11 @@ sidebar_position: 3
 
 ### GPT-Tutor设置
 
-在初次打开GPT-Tutor时，你需要设置Default Service Provider（[默认服务提供商]）和API Model（[API模型]），如果你能够正常使用ChatGPT，这里推荐使用ChatGPT Web（免费）。
+在初次打开GPT-Tutor时，你需要设置Default Service Provider（[默认服务提供商](./main-explain/provider.md)）和API Model（[API模型](./main-explain/APImodel.md)），如果你能够正常使用ChatGPT，这里推荐使用ChatGPT Web（免费）。
 
-### prompt组设置
+### 功能设置
 
-你可以在Action Manager（[动作管理器](./actionManager-explain/main.md)）中创建自己的[prompt组]。
+你可以在Action Manager（[动作管理器](./main-explain/actionManager.md)）中创建、更新、删除所有[功能](./main-explain/prompts.md)。
 
 ### Anki设置
 
