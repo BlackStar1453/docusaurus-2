@@ -1,7 +1,7 @@
 ---
 slug: language-settings
 title: 语言设置
-position: 3
+sidebar_position: 5
 ---
 
 

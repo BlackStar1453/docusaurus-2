@@ -1,7 +1,7 @@
 ---
 slug: main
 title: 主界面
-position: 1
+sidebar_position: 1
 ---
 
 ## 主页面功能

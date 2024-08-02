@@ -1,7 +1,7 @@
 ---
 slug: provider
 title: 默认服务提供商
-position: 5
+sidebar_position: 3
 ---
 
 ## 默认服务提供商

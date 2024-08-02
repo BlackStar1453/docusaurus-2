@@ -1,7 +1,7 @@
 ---
 slug: actionManager
 title: 功能管理器
-position: 2
+sidebar_position: 2
 ---
 
 ## 功能管理器
