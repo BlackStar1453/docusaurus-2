@@ -1,6 +1,7 @@
 ---
 slug: key
 title: API密钥
+position: 6
 ---
 
 ### API密钥

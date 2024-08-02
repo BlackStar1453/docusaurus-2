@@ -27,7 +27,7 @@ const Intro = () => {
       items: [
         { text: "下载相关", link: "/docs/download" },
         { text: "设置相关", link: "/docs/settings" },
-        { text: "GPT-Tutor中的X是用来做什么的", link: "/docs/category/设置页面/主页面解释" },
+        { text: "GPT-Tutor中的X是用来做什么的", link: "/docs/category/解释专业术语" },
         { text: "其它问题", link: "/docs/category/常见问题" },
       ]
     }
