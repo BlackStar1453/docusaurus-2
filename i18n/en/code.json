@@ -250,6 +250,12 @@
     "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
+  "下载相关": {
+    "message": "Download Related"
+  },
+  "设置相关": {
+    "message": "Settings Related"
+  },
   "了解GPT-Tutor": { "message": "Understand GPT-Tutor" },
 "什么是GPT-Tutor": { "message": "What is GPT-Tutor" },
 "如何使用GPT-Tutor来学习语言": { "message": "How to use GPT-Tutor to learn languages" },
