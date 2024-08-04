@@ -10,7 +10,7 @@ const config = {
   tagline: "也许是你最实用的语言学习工具",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/docusaurs.png",
 
@@ -64,6 +64,10 @@ const config = {
         },
         items: [
           {
+            type: 'localeDropdown',
+            position: 'right',
+          },
+          {
             href: "https://github.com/BlackStar1453/gpt-tutor-for-chrome",
             label: "GitHub",
             position: "right",
@@ -77,8 +81,8 @@ const config = {
             title: "Contact Me",
             items: [
               {
-                label: "Discord",
-                href: "https://discord.gg/JrNrUs72Jn",
+                label: "Telegram",
+                href: "https://t.me/+p5mMQhx1_rsxN2I1",
               },
               {
                 label: "微博",

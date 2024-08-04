@@ -1,6 +1,6 @@
 ---
 slug: privacy
-title: privacy policy
+title: 隐私政策
 tags: [settings]
 sidebar_position: 8
 ---

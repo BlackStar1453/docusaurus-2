@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.英语学习": {
+    "message": "English Learning",
+    "description": "The label for category 英语学习 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.英语学习.link.generated-index.description": {
+    "message": "Related docs for learning English",
+    "description": "The generated-index page description for category 英语学习 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.解释专业术语": {
+    "message": "Explaining professional terms",
+    "description": "The label for category 解释专业术语 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.解释专业术语.link.generated-index.description": {
+    "message": "Explain GPT-Tutor's professional terms",
+    "description": "The generated-index page description for category 解释专业术语 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.扩展阅读": {
+    "message": "Extra reading",
+    "description": "The label for category 扩展阅读 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.扩展阅读.link.generated-index.description": {
+    "message": "Related docs for extra reading",
+    "description": "The generated-index page description for category 扩展阅读 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.常见问题": {
+    "message": "Problems with GPT-Tutor",
+    "description": "The label for category 常见问题 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.常见问题.link.generated-index.description": {
+    "message": "Problems you might have when using GPT-Tutor",
+    "description": "The generated-index page description for category 常见问题 in sidebar tutorialSidebar"
+  }
+}

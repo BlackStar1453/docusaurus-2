@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.英语学习": {
+    "message": "英语学习",
+    "description": "The label for category 英语学习 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.英语学习.link.generated-index.description": {
+    "message": "使用ChatGPT和GPT-Tutor学习英语的相关资料和资源.",
+    "description": "The generated-index page description for category 英语学习 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.解释专业术语": {
+    "message": "解释专业术语",
+    "description": "The label for category 解释专业术语 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.解释专业术语.link.generated-index.description": {
+    "message": "解释设置页面/主页面中的的专业术语",
+    "description": "The generated-index page description for category 解释专业术语 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.扩展阅读": {
+    "message": "扩展阅读",
+    "description": "The label for category 扩展阅读 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.扩展阅读.link.generated-index.description": {
+    "message": "了解AI的一些相关知识，帮助你更好地理解它是如何帮助你学习一门语言的。",
+    "description": "The generated-index page description for category 扩展阅读 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.常见问题": {
+    "message": "常见问题",
+    "description": "The label for category 常见问题 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.常见问题.link.generated-index.description": {
+    "message": "在使用GPT-Tutor时可能会遇到的一些常见问题。",
+    "description": "The generated-index page description for category 常见问题 in sidebar tutorialSidebar"
+  }
+}
