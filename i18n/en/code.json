@@ -250,13 +250,16 @@
     "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
-  "测试": {
-    "message": "Test"
-  },
-  "下载相关": {
-    "message": "Download Related"
-  },
-  "设置相关": {
-    "message": "Settings Related"
-  }
+  "了解GPT-Tutor": { "message": "Understand GPT-Tutor" },
+"什么是GPT-Tutor": { "message": "What is GPT-Tutor" },
+"如何使用GPT-Tutor来学习语言": { "message": "How to use GPT-Tutor to learn languages" },
+"为什么gpt-tutor是免费且开源的": { "message": "Why GPT-Tutor is free and open-source" },
+"初次使用AI学习语言？": { "message": "First time using AI to learn languages?" },
+"使用AI学习之前的注意事项": { "message": "Things to note before using AI for learning" },
+"使用AI学习单词": { "message": "Using AI to learn vocabulary" },
+"使用AI学习表达": { "message": "Using AI to learn expressions" },
+"常见问题解答": { "message": "Frequently Asked Questions" },
+"使用界面中的专业术语": { "message": "Technical terms used in the interface" },
+"其它问题": { "message": "Other questions" }
 }
+
