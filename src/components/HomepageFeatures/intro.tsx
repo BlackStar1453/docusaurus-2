@@ -7,28 +7,28 @@ const Intro = () => {
       icon: <LightbulbIcon className="w-8 h-8 text-blue-500" />,
       title: <Translate>了解GPT-Tutor</Translate>,
       items: [
-        { text: <Translate>什么是GPT-Tutor</Translate>, link: <Translate>/docs/introduction</Translate> },
-        { text: <Translate>如何使用GPT-Tutor来学习语言</Translate>, link: <Translate>/docs/category/英语学习</Translate> },
-        { text: <Translate>为什么gpt-tutor是免费且开源的</Translate>, link: <Translate>/blog/why-gpt-tutor-free</Translate>},
+        { text: <Translate>什么是GPT-Tutor</Translate>, link: "/docs/introduction" },
+        { text: <Translate>如何使用GPT-Tutor来学习语言</Translate>, link: "/docs/category/英语学习" },
+        { text: <Translate>为什么gpt-tutor是免费且开源的</Translate>, link: "/blog/why-gpt-tutor-free" },
       ]
     },
     {
       icon: <PuzzleIcon className="w-8 h-8 text-blue-500" />,
       title: <Translate>初次使用AI学习语言？</Translate>,
       items: [
-        { text: <Translate>使用AI学习之前的注意事项</Translate>, link: <Translate>/blog/attention</Translate> },
-        { text: <Translate>使用AI学习单词</Translate>, link: <Translate>/docs/gpt-English/word-learning</Translate> },
-        { text: <Translate>使用AI学习表达</Translate>, link: <Translate>/docs/gpt-English/expression-learning</Translate> },
+        { text: <Translate>使用AI学习之前的注意事项</Translate>, link: "/blog/attention" },
+        { text: <Translate>使用AI学习单词</Translate>, link: "/docs/gpt-English/word-learning" },
+        { text: <Translate>使用AI学习表达</Translate>, link: "/docs/gpt-English/expression-learning" },
       ]
     },
     {
       icon: <CheckCircleIcon className="w-8 h-8 text-blue-500" />,
       title: <Translate>常见问题解答</Translate>,
       items: [
-        { text: <Translate>下载相关</Translate>, link: <Translate>/docs/download</Translate> },
-        { text: <Translate>设置相关</Translate>, link: <Translate>/docs/settings</Translate> },
-        { text: <Translate>使用界面中的专业术语</Translate>, link: <Translate>/docs/category/解释专业术语</Translate> },
-        { text: <Translate>其它问题</Translate>, link: <Translate>/docs/category/常见问题</Translate> },
+        { text: <Translate>下载相关</Translate>, link: "/docs/download" },
+        { text: <Translate>设置相关</Translate>, link: "/docs/settings" },
+        { text: <Translate>使用界面中的专业术语</Translate>, link: "/docs/category/解释专业术语" },
+        { text: <Translate>其它问题</Translate>, link: "/docs/category/常见问题" },
       ]
     }
   ];
