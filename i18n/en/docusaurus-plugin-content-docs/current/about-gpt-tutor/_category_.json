@@ -1,0 +1,8 @@
+{
+  "label": "About GPT-Tutor",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Topic related to the GPT-Tutor"
+  }
+}

@@ -256,16 +256,67 @@
   "设置相关": {
     "message": "Settings Related"
   },
-  "了解GPT-Tutor": { "message": "Understand GPT-Tutor" },
-"什么是GPT-Tutor": { "message": "What is GPT-Tutor" },
-"如何使用GPT-Tutor来学习语言": { "message": "How to use GPT-Tutor to learn languages" },
-"为什么gpt-tutor是免费且开源的": { "message": "Why GPT-Tutor is free and open-source" },
-"初次使用AI学习语言？": { "message": "First time using AI to learn languages?" },
-"使用AI学习之前的注意事项": { "message": "Things to note before using AI for learning" },
-"使用AI学习单词": { "message": "Using AI to learn vocabulary" },
-"使用AI学习表达": { "message": "Using AI to learn expressions" },
-"常见问题解答": { "message": "Frequently Asked Questions" },
-"使用界面中的专业术语": { "message": "Technical terms used in the interface" },
-"其它问题": { "message": "Other questions" }
+  "了解GPT-Tutor": {
+    "message": "Understand GPT-Tutor"
+  },
+  "什么是GPT-Tutor": {
+    "message": "What is GPT-Tutor"
+  },
+  "如何使用GPT-Tutor来学习语言": {
+    "message": "How to use GPT-Tutor to learn languages"
+  },
+  "为什么gpt-tutor是免费且开源的": {
+    "message": "Why GPT-Tutor is free and open-source"
+  },
+  "初次使用AI学习语言？": {
+    "message": "First time using AI to learn languages?"
+  },
+  "使用AI学习之前的注意事项": {
+    "message": "Things to note before using AI for learning"
+  },
+  "使用AI学习单词": {
+    "message": "Using AI to learn vocabulary"
+  },
+  "使用AI学习表达": {
+    "message": "Using AI to learn expressions"
+  },
+  "常见问题解答": {
+    "message": "Frequently Asked Questions"
+  },
+  "使用界面中的专业术语": {
+    "message": "Technical terms used in the interface"
+  },
+  "其它问题": {
+    "message": "Other questions"
+  },
+  "/docs/introduction": {
+    "message": "/docs/introduction"
+  },
+  "/docs/category/英语学习": {
+    "message": "/docs/en/category/english-learning"
+  },
+  "/blog/why-gpt-tutor-free": {
+    "message": "/blog/en/why-gpt-tutor-free"
+  },
+  "/blog/attention": {
+    "message": "/blog/en/attention"
+  },
+  "/docs/gpt-English/word-learning": {
+    "message": "/docs/en/gpt-English/word-learning"
+  },
+  "/docs/gpt-English/expression-learning": {
+    "message": "/docs/en/gpt-English/expression-learning"
+  },
+  "/docs/download": {
+    "message": "/docs/en/download"
+  },
+  "/docs/settings": {
+    "message": "/docs/en/settings"
+  },
+  "/docs/category/解释专业术语": {
+    "message": "/docs/en/category/explain"
+  },
+  "/docs/category/常见问题": {
+    "message": "/docs/en/category/problem"
+  }
 }
-

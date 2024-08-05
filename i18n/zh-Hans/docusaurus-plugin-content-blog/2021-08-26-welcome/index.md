@@ -1,6 +1,6 @@
 ---
-slug: welcome
-title: Welcome
+slug: about-me
+title: Yao是谁
 authors: yao
 ---
 
@@ -10,4 +10,6 @@ authors: yao
 
 [youtube](https://www.youtube.com/channel/UC7ecjWbmTb316c1Jk4pQprg)
 
-[Mastodon](https://m.cmx.im/tags/%E4%BD%BF%E7%94%A8ChatGPT%E8%BE%85%E5%8A%A9%E5%AD%A6%E4%B9%A0)
+[X](https://x.com/Heraclitius)
+
+[微博](https://weibo.com/u/2432250323)
