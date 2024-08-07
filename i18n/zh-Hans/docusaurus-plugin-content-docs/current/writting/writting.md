@@ -1,5 +1,5 @@
 ---
-slug: writting
+slug: writing
 title: 作文练习
 authors: yao
 ---
