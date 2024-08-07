@@ -1,5 +1,5 @@
 ---
-slug: word-learning
+slug: word-learning-3
 title: 如何使用AI来帮助你永远记住一个词（三）：GPT-Tutor
 author: yao
 ---
