@@ -1,5 +1,5 @@
 ---
-slug: word-learning
+slug: word-learning-2
 title: 如何使用AI来帮助你永远记住一个词（二）：语境式学习
 author: yao
 ---

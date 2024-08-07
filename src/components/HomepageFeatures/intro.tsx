@@ -16,7 +16,7 @@ const Intro = () => {
       icon: <PuzzleIcon className="w-8 h-8 text-blue-500" />,
       title: <Translate>初次使用AI学习语言？</Translate>,
       items: [
-        { text: <Translate>使用AI学习之前的注意事项</Translate>, link: "/blog/attention" },
+        { text: <Translate>使用AI学习之前的注意事项</Translate>, link: "/docs/about-gpt-tutor/attention" },
         { text: <Translate>使用AI学习单词</Translate>, link: "/docs/category/单词学习" },
         { text: <Translate>使用AI学习表达</Translate>, link: "/docs/category/表达学习" },
         { text: <Translate>使用AI学习作文</Translate>, link: "/docs/category/写作学习" },
