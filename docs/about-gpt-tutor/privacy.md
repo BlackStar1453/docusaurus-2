@@ -2,7 +2,7 @@
 slug: privacy
 title: 隐私政策
 tags: [settings]
-sidebar_position: 8
+sidebar_position: 12
 ---
 
 GPT-Tutor collects user email addresses and passwords for the purpose of registering and logging into accounts. All other user data will be stored in localStorage or IndexedDB.
