@@ -1,8 +1,10 @@
 ---
 slug: word-learning
-title: 如何使用AI来帮助你永远记住一个单词
+title: 如何使用AI来帮助你永远记住一个单词（一）：三大难题
 author: yao
 ---
+
+**建议通过[少数派](https://sspai.com/post/91178)来查看该文章，排版会更好。**
 
 # 引言
 
