@@ -10,7 +10,6 @@ const Intro = () => {
       title: <Translate>了解GPT-Tutor</Translate>,
       items: [
         { text: <Translate>什么是GPT-Tutor</Translate>, link: useBaseUrl('/docs/introduction') },
-        { text: <Translate>如何使用GPT-Tutor来学习语言</Translate>, link: useBaseUrl('/docs/category/英语学习') },
         { text: <Translate>为什么gpt-tutor是免费且开源的</Translate>, link: useBaseUrl('/blog/why-gpt-tutor-free') },
       ]
     },
