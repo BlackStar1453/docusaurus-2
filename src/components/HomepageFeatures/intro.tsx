@@ -1,35 +1,37 @@
 import React from 'react';
 import { LightbulbIcon, PuzzleIcon, CheckCircleIcon } from 'lucide-react';
-import Translate, {translate} from '@docusaurus/Translate';
+import Translate, { translate } from '@docusaurus/Translate';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 const Intro = () => {
   const sections = [
     {
       icon: <LightbulbIcon className="w-8 h-8 text-blue-500" />,
       title: <Translate>了解GPT-Tutor</Translate>,
       items: [
-        { text: <Translate>什么是GPT-Tutor</Translate>, link: "/docs/introduction" },
-        { text: <Translate>如何使用GPT-Tutor来学习语言</Translate>, link: "/docs/category/英语学习" },
-        { text: <Translate>为什么gpt-tutor是免费且开源的</Translate>, link: "/blog/why-gpt-tutor-free" },
+        { text: <Translate>什么是GPT-Tutor</Translate>, link: useBaseUrl('/docs/introduction') },
+        { text: <Translate>如何使用GPT-Tutor来学习语言</Translate>, link: useBaseUrl('/docs/category/英语学习') },
+        { text: <Translate>为什么gpt-tutor是免费且开源的</Translate>, link: useBaseUrl('/blog/why-gpt-tutor-free') },
       ]
     },
     {
       icon: <PuzzleIcon className="w-8 h-8 text-blue-500" />,
       title: <Translate>初次使用AI学习语言？</Translate>,
       items: [
-        { text: <Translate>使用AI学习之前的注意事项</Translate>, link: "/docs/about-gpt-tutor/attention" },
-        { text: <Translate>使用AI学习单词</Translate>, link: "/docs/category/单词学习" },
-        { text: <Translate>使用AI学习表达</Translate>, link: "/docs/category/表达学习" },
-        { text: <Translate>使用AI学习作文</Translate>, link: "/docs/category/写作学习" },
+        { text: <Translate>使用AI学习之前的注意事项</Translate>, link: useBaseUrl('/docs/about-gpt-tutor/attention') },
+        { text: <Translate>使用AI学习单词</Translate>, link: useBaseUrl('/docs/category/单词学习') },
+        { text: <Translate>使用AI学习表达</Translate>, link: useBaseUrl('/docs/category/表达学习') },
+        { text: <Translate>使用AI学习作文</Translate>, link: useBaseUrl('/docs/category/写作学习') },
       ]
     },
     {
       icon: <CheckCircleIcon className="w-8 h-8 text-blue-500" />,
       title: <Translate>常见问题解答</Translate>,
       items: [
-        { text: <Translate>下载相关</Translate>, link: "/docs/download" },
-        { text: <Translate>设置相关</Translate>, link: "/docs/settings" },
-        { text: <Translate>使用界面中的专业术语</Translate>, link: "/docs/category/解释专业术语" },
-        { text: <Translate>其它问题</Translate>, link: "/docs/category/常见问题" },
+        { text: <Translate>下载相关</Translate>, link: useBaseUrl('/docs/download') },
+        { text: <Translate>设置相关</Translate>, link: useBaseUrl('/docs/settings') },
+        { text: <Translate>使用界面中的专业术语</Translate>, link: useBaseUrl('/docs/category/解释专业术语') },
+        { text: <Translate>其它问题</Translate>, link: useBaseUrl('/docs/category/常见问题') },
       ]
     }
   ];
@@ -47,17 +49,17 @@ const Intro = () => {
               {section.items.map((item, itemIndex) => (
                 <li key={itemIndex}>
                   <a href={item.link} className="text-blue-600 hover:underline">
-                  {item.text}
+                    {item.text}
                   </a>
                 </li>
               ))}
             </ul>
           </div>
         ))}
-      
       </div>
     </div>
   );
 };
 
 export default Intro;
+

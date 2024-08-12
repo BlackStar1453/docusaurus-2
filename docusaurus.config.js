@@ -23,8 +23,20 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "zh-Hans",
-    locales: ["en","zh-Hans"],
+    defaultLocale: 'zh',  // 默认语言
+    locales: ['zh', 'en'], // 支持的语言列表
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+      },
+      zh: {
+        label: '中文',
+        direction: 'ltr',
+        htmlLang: 'zh-CN',
+      },
+    },
   },
 
   presets: [
