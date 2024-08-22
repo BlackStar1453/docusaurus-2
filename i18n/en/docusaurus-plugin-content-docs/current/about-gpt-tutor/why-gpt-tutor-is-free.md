@@ -12,7 +12,7 @@ The current version of GPT-Tutor is free because it incurs no additional costs t
 
 In one sentence: I see the potential of GPT-Tutor and the feasibility of AI in education, but my experience and skills are limited. I hope the open-source community can continue to develop this project.
 
-## Why I Decided to Make it Free and Open Source
+## More Detailed Explanation
 
 Around January 2023, the earliest version of GPT-Tutor was released. Initially, GPT-Tutor was a paid service, and the price was relatively high because I believed its powerful features were worth paying for. In fact, I did gain the first batch of paying users (thank you for your support!), which brought me my first income.
 
@@ -28,11 +28,13 @@ We thought our abilities were lacking, that we had no talent for languages, or p
 
 Some people (like my classmate A) started learning English in kindergarten, watching English cartoons, reading fairy tales, knowing words in elementary school that I only learned in high school. Their middle school English teacher was a native speaker, and their parents spoke fluent English and read English novels. Meanwhile, our only language environment consisted of a few classes a week with a teacher who had poor pronunciation and incomprehensible textbooks. How could we possibly learn well?
 
-The lack of language education resources made us inherently "handicapped" in language learning. Those with exceptional language talent (a rare few) could catch up with enough effort, but the majority of us inevitably became "lifelong English handicapped." However, the emergence of ChatGPT made me see **the possibility of changing all this.** AI can be the miracle worker that cures our "lifelong language handicap" or at least ensures that the next generation doesn't suffer from our poor language education.
+The lack of language education resources made us inherently "handicapped" in language learning. Those with exceptional language talent (a rare few) could catch up with enough effort, but the majority of us inevitably became "lifelong English handicapped." However, the emergence of ChatGPT made me see the possibility of changing all this. AI can be the miracle worker that cures our "lifelong language handicap" or at least ensures that the next generation doesn't suffer from our poor language education.
 
-**GPT-Tutor can really change everything.** It can replace subpar language education. We don't need teachers who barely understand the material themselves, or dry, rigid textbooks, or mechanical pronunciation from tapes. We need **GPT-Tutor**, a patient, friendly teacher available 24/7. It offers accurate word pronunciation, real-life video pronunciations, and explanations for complex grammar questions. It can help with reading and writing practice.
+GPT-Tutor can really change everything. It can replace subpar language education. We don't need teachers who barely understand the material themselves, or dry, rigid textbooks, or mechanical pronunciation from tapes. We need GPT-Tutor, a patient, friendly teacher available 24/7. It offers accurate word pronunciation, real-life video pronunciations, and explanations for complex grammar questions. It can help with reading and writing practice.
 
 **GPT-Tutor might not surpass my classmate's language education (although I believe it can with the right methods), but it is vastly superior to the education in my small town.**
+
+### low cost, easy implementation, and high quality language education
 
 Finding an English teacher at GPT-Tutor's level might require a native speaker who is also a language expert, typically very expensive and unaffordable for most people. Even if you could hire such a teacher, they wouldn't be available 24/7, whereas **GPT-Tutor only needs a computer to do so** (and will support mobile devices in the future).
 
