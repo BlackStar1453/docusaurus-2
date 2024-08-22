@@ -1,5 +1,5 @@
 ---
-slug: why-GPT-Tutor-free
+slug: why-gpt-tutor-free
 title: Why GPT-Tutor is Free and Open Source
 authors: yao
 ---

@@ -1,5 +1,5 @@
 ---
-slug: why-GPT-Tutor-free
+slug: why-gpt-tutor-free
 title: 为什么GPT-Tutor是免费且开源的
 authors: yao
 ---
