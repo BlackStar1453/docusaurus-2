@@ -5,7 +5,6 @@ authors: endi
 tags: [settings]
 sidebar_position: 3
 ---
-## 使用前设置
 
 如果你想要快速完成设置来试用gpt-tutor的相关功能，那么你只需要完成这四个设置：
 

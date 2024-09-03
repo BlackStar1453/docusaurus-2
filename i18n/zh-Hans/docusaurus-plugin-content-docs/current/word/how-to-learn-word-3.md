@@ -1,6 +1,6 @@
 ---
 slug: word-learning-3
-title: 如何使用AI来帮助你永远记住一个词（三）：GPT-Tutor
+title: AI如何帮助你永远记住一个单词（三）：GPT-Tutor
 author: yao
 ---
 
@@ -9,7 +9,6 @@ author: yao
 在（二）中我们提到，阅读作为实现语境式学习的缺点是**很难刚好找到比你语言水平高一点的读物，而且刚好又是你感兴趣，能够吸引你的读物**；而AI，更准确来说，GPT-Tutor能够做到这一切。
 
 
-## 使用GPT-Tutor来实现语境式学习
 
 ### 什么是GPT-Tutor
 
